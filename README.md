@@ -1,43 +1,29 @@
-# digital_library
-A fully functional Digital Library Management System developed using PHP, JavaScript, Tailwind CSS, and MySQL. This system enables library admins and users to manage digital seat bookings, monitor seat status, and maintain a smooth flow of library operations.
+# 📚 Digital Library Management System
 
- <h1>🚀 Features </h1>
-📌 Admin Panel
+A web-based application that allows students to **book seats in the library** in real-time. Built with **PHP**, **JavaScript**, **Tailwind CSS**, and **MySQL**, this project helps manage seat availability, user bookings, and real-time status updates for efficient library resource management.
 
-Add, update, or delete seat records.
+---
 
-View booked vs. available seats.
+## 🌐 Features
 
-Manage user bookings and payments.
+- ✅ Student seat booking with name and email
+- ✅ Real-time seat status (booked / available)
+- ✅ Automatic seat release (admin/manual)
+- ✅ Mobile-responsive UI using Tailwind CSS
+- ✅ Backend logic with PHP and MySQL
+- ✅ Admin control to monitor or reset seats
 
-Dashboard with real-time seat statistics.
+---
 
-🧑‍💻 User Panel
+## 🛠️ Tech Stack
 
-View available seats with a clean UI.
+| Layer       | Technology         |
+|-------------|--------------------|
+| Frontend    | HTML, JavaScript, Tailwind CSS |
+| Backend     | PHP       |
+| Database    | MySQL              |
+| Hosting     | Apache (XAMPP/LAMP) |
 
-Book seats in real-time.
+ 
 
-Receive booking confirmation and status.
-
-💾 Database Integration
-
-MySQL-powered backend for efficient data storage and retrieval.
-
-Secure and optimized queries for smooth operations.
-
-🎨 Responsive Design
-
-Built with Tailwind CSS for a modern, responsive interface.
-
-Mobile-friendly and clean layout with card-based UI.
-
-🛠️ Tech Stack
-Frontend: HTML, Tailwind CSS, JavaScript
-
-Backend: PHP
-
-Database: MySQL
-
-Version Control: Git & GitHub
 
