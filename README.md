@@ -24,6 +24,19 @@ A web-based application that allows students to **book seats in the library** in
 | Database    | MySQL              |
 | Hosting     | Apache (XAMPP/LAMP) |
 
- 
+ ```
+ project-root/
+├── admin/          # Admin panel related files (e.g., dashboard.php)
+├── config/         # Configuration files (e.g., DB connection)
+├── iamges/         # ⚠️ Likely a typo for 'images'
+├── public/         # Public assets (CSS, JS, etc.)
+├── sql/            # SQL dump or migration scripts
+├── README.md       # Project documentation
+├── images          # Image file (possible misplacement)
+├── index.php       # Entry point of the application
 
-
+```
+```
+git clone https://github.com/maniishh/php-web-app.git
+cd php-web-app
+```
